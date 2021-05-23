@@ -1,6 +1,6 @@
 # REZORBOT
 
-# 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
+# THE REZORBOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 RezorBot made by @Raunak_rajput. Join for update related info channel and group :- https://t.me/TeamAlpha_Support THANKS FOR VISITING OUR REPO💖
@@ -15,10 +15,6 @@ RezorBot made by @Raunak_rajput. Join for update related info channel and group 
   <summary> • FOR ANY QUERY • </summary>
 <h2 align="center"> <a href="https://t.me/TeamAlpha_info">☢️JOIN Team Alpha SUPPORT☢️</a></h2>
 
-</details>
-
-
-# FORK AT YOUR OWN RISK
 
 <details>
 
@@ -84,9 +80,6 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
     - `APP_ID`:   You can get this value from https://my.telegram.org
     - `API_HASH`:   You can get this value from https://my.telegram.org
 - The userbot will not work without setting the mandatory vars.
-
-
-</details>
 
 <details>
 
